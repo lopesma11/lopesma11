@@ -1,6 +1,6 @@
 # Hello, I'm Matheus 👋
 
-Welcome to my GitHub profile! I am I'm deeply passionate about technology, and ever since I discovered the world of programming, I've thrived in it and have no intention of looking back.
+Welcome to my GitHub profile! I'm deeply passionate about technology, and ever since I discovered the world of programming, I've thrived in it and have no intention of looking back.
 
 ## Skills
 
