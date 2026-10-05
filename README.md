@@ -1,80 +1,79 @@
-<h1 align="center">Hi there 👋 I'm Matheus</h1>
+<h1 align="center">Hi there I'm Matheus</h1>
 
 <p align="center">
-💻 Full-Stack Development Intern | Passionate about technology and innovation <br>
-🚀 Exploring the world of programming with continuous learning and curiosity
+  <b>Backend Developer</b> · Computer Engineering @ IFSP <br>
+  Building event-driven microservices with <b>TypeScript</b>, <b>NestJS</b> and <b>AWS</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheus-lopes11/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ml722090@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
-### 🧠 About Me
+### About Me
 
-- 🎓 Tech student and full-stack development intern.
-- 💼 Currently working with: **ReactJS**, **NextJS**, **NestJS**, **PostgreSQL**, **TypeScript**, **Jenkins**, **Docker**.
-- 📱 Currently learning **React Native** to expand my mobile development skills.
-- 🧪 Gaining hands-on experience through challenging real-world projects.
-- 🎯 Goal: To become a highly skilled and versatile full-stack developer.
-
----
-
-### 🛠️ Technologies & Tools
-
-#### Languages & Frameworks:
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
-![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
-![NextJS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg)
-![NestJS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg)
-
-#### Styling:
-![TailwindCSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg)
-
-#### Databases:
-![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)
-
-#### DevOps & Tools:
-![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)
-![Jenkins](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg)
-![Insomnia](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg)
-
-#### Version Control:
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
-![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
+- Backend Developer, working on a squad that maintains an order-management platform made of event-driven microservices on AWS.
+- Day to day: building features and partner integrations, fixing production bugs with root-cause analysis, hardening security, and writing automated tests.
+- Final year of **Computer Engineering at IFSP** (graduating Dec 2026), currently writing my capstone project (TCC).
+- As an intern, built a product testing & approval management system (NestJS + PostgreSQL + Next.js) that was recognized as one of the **top 3 intern projects company-wide**.
+- Focused on growing into a mid-level engineer: clean architecture, distributed systems and reliability.
 
 ---
 
-### 📌 Featured Projects
+### What I'm Working With
 
-- [**WaiterApp – Restaurant Management System**](https://github.com/lopesma11/WaiterApp-Fe)  
-  A complete solution for restaurants, developed entirely solo:
-  - 💻 [Frontend Web Interface (React + TypeScript)](https://github.com/lopesma11/WaiterApp-Fe)
-  - 📱 [Mobile App (React Native)](https://github.com/lopesma11/WaiterApp-Mobile)
-  - ⚙️ [Backend API (NestJS + PostgreSQL)](https://github.com/lopesma11/WaiterApp-API)
-    
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopesma11&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lopesma11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+| Area | Details |
+| --- | --- |
+| **Event-driven architecture** | Producers/consumers with AWS SNS + SQS, retries, dead-letter queues, idempotency |
+| **Cloud & Deploy** | Docker, AWS ECS Fargate, S3, CloudWatch Logs |
+| **Integrations** | REST APIs with external partners, API gateways, TLS troubleshooting |
+| **Testing** | Unit & integration tests with Vitest and Supertest |
+| **Workflow** | Gitflow on Bitbucket, code review |
 
 ---
 
-### 📫 Contact
+### Tech Stack
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/matheus-lopes11/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ml722090@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+<p align="left">
+  <b>Backend</b><br>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express&perline=10" alt="Backend stack" />
+</p>
+
+<p align="left">
+  <b>Databases & Messaging</b><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=10" alt="Databases and messaging" />
+</p>
+
+<p align="left">
+  <b>Cloud, DevOps & Observability</b><br>
+  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins&perline=10" alt="Cloud and DevOps" />
+</p>
+
+<p align="left">
+  <b>Frontend</b><br>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&perline=10" alt="Frontend stack" />
+</p>
+
+<p align="left">
+  <b>Testing & Tools</b><br>
+  <img src="https://skillicons.dev/icons?i=vitest,jest,git,github,bitbucket,postman,insomnia&perline=10" alt="Testing and tools" />
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lopesma11&color=blue" alt="Profile views" />
-</div>
+### Featured Projects
+
+#### WaiterApp — Restaurant Management System
+Full solution built solo, from API to mobile app.
+
+| Part | Stack | Repo |
+| --- | --- | --- |
+| Backend API | NestJS · PostgreSQL | [WaiterApp-API](https://github.com/lopesma11/WaiterApp-API) |
+| Web | React · TypeScript | [WaiterApp-Fe](https://github.com/lopesma11/WaiterApp-Fe) |
+| Mobile | React Native | [WaiterApp-Mobile](https://github.com/lopesma11/WaiterApp-Mobile) |
